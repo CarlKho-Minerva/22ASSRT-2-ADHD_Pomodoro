@@ -1,0 +1,30 @@
+{
+  "name": "adhd-pomodoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlKho-Minerva/22ASSRT-2-ADHD_Pomodoro.git"
+  },
+  "keywords": [
+    "ADHD",
+    "Pomodoro",
+    "Timer",
+    "Neurodivergent",
+    "Productivity"
+  ],
+  "author": "Carl Kho (12/31/22)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlKho-Minerva/22ASSRT-2-ADHD_Pomodoro/issues"
+  },
+  "homepage": "https://github.com/CarlKho-Minerva/22ASSRT-2-ADHD_Pomodoro#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
